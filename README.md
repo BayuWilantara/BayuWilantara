@@ -7,14 +7,15 @@ I am currenty working at laboratory EOR - PT Pertamina (Persero) RTI
 
 ## PROJECT
 
-I. Study Acid Stimulation of Bekapai, Handil, and Tambora Field.
-II. Study Digital Rock Analysis.
-III. Study of CO2 Injection of Sukowati Field.
-IV. Study of CEOR Minas Field.
-V. Study of CEOR Bangko Field.
-VI. Study of CEOR Rantau Field.
-VII. Study of MMP injection fot Jatibarang Field.
-VIII. Study of Imbibition, Huff and Puff Jirak Field.
-IX. Study of Surfactant and Polymer flooding for Jirak
+1. Study Acid Stimulation of Bekapai, Handil, and
+Tambora Field.
+2. Study Digital Rock Analysis.
+3. Study of CO2 Injection of Sukowati Field.
+4. Study of CEOR Minas Field.
+5. Study of CEOR Bangko Field.
+6. Study of CEOR Rantau Field.
+7. Study of MMP injection fot Jatibarang Field.
+8. Study of Imbibition, Huff and Puff Jirak Field.
+9. Study of Surfactant and Polymer flooding for Jirak
 Field.
-X. Study Well Stimulation of Mutiara Field.
+10. Study Well Stimulation of Mutiara Field.
