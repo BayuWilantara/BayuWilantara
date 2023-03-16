@@ -8,10 +8,13 @@ I am currenty working at laboratory EOR - PT Pertamina (Persero) RTI
 ## PROJECT
 
 1. Study Acid Stimulation of Bekapai, Handil, and Tambora Field.\
-2. Study Digital Rock Analysis.\
-3. Study of CO2 Injection of Sukowati Field.\
-4. Study of CEOR Minas Field, Bangko Field and Rantau Field.\
-    
+    Comparing mineral of rock between before chemical contact and after chemical contact.
+3. Study Digital Rock Analysis.\
+    Comparing result of porosity and permeability between RCA test and simulator. 
+4. Study of CO2 Injection of Sukowati Field.\
+    performing CO2 flooding to determine reability of equipment.
+5. Study of CEOR Minas Field, Bangko Field and Rantau Field.\
+    Performing test of chemical to determine performance based on recovery factor of oil using coreflooding equipment.
 5. Study of MMP injection of Jatibarang Field.\
     Performing minimum miscible pressure of CO2 for JTB Field. CO2 is injected to equipment which have saturated by oil with various pressure to determine MMP.
 6. Study of Imbibition, Huff and Puff Jirak Field.\
