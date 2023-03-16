@@ -28,7 +28,7 @@ I am currenty working at laboratory EOR - PT Pertamina (Persero) RTI
 ### Laboratory Skills
 Proficient in operating equipment of routine core analysis to take data of porosity, permeability, and grain density.\
 Enhance in operating coreflooding equipment to determenie recovery factor of core.\
-Able to operating and analyze data of CME, BP, and GOR test, fluid properties such as density and viscosity, and screening chemical for EOR test.\
+Able to operating and analyze data of CME, BP, and GOR test, fluid properties such as density and viscosity, and screening chemical for EOR test.
 
 ### Computer Skills
 Enhance in data analysis, reporting, and presenting using tools of microsoft office, able to using Phyton for data visualization to get insight, and able to using simulation and design software like CMG and SolidWorks.
