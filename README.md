@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I am Bayu Wilantara - aka Bayu
+## I am Bayu Wilantara
 
 ###
 I am currenty working at laboratory EOR - PT Pertamina (Persero) RTI
